@@ -1,0 +1,30 @@
+body{
+background-image:url(abc.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+font-family:Activa-BoldItal;
+}
+
+div{
+width:800px;
+padding:10px;
+margin:10px;
+}
+
+ul{
+list-style-type:none;
+background:#ff9999;
+padding:20px;
+marging-left:35px;
+}
+
+ul li{
+background:#ffe5e5;
+marging:5px;
+}
+
+button{
+font-size:20px;
+padding:14px 40px;
+}
